@@ -6,10 +6,12 @@ Bienvenido a mi portafolio desarrollado con HTML, CSS y JavaScript.
 
 ### Tecnologías
 
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 - Python
+- Makecode
+- Miappinventor
 
 ### Intereses
 
@@ -17,3 +19,5 @@ Bienvenido a mi portafolio desarrollado con HTML, CSS y JavaScript.
 - 🎵 Música
 - 💻 Desarrollo Web
 - 📚 Aprendizaje continuo
+- robotica
+- ia fisica
