@@ -12,6 +12,7 @@ Bienvenido a mi portafolio desarrollado con HTML, CSS y JavaScript.
 - Python
 - Makecode
 - Miappinventor
+- java
 
 ### Intereses
 
